@@ -6,6 +6,12 @@ body {
 	font-family: 'Inter';
 	font-style: normal;
 }
+
+.picture.left {
+	max-width: 450px;
+	max-height: 450px;
+}
+
 .top-header {
 	background-color: white;
 	position: sticky;
